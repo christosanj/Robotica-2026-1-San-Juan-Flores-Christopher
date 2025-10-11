@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+../build/nodes_topics_py/practica_0.egg-info/PKG-INFO
+../build/nodes_topics_py/practica_0.egg-info/SOURCES.txt
+../build/nodes_topics_py/practica_0.egg-info/dependency_links.txt
+../build/nodes_topics_py/practica_0.egg-info/entry_points.txt
+../build/nodes_topics_py/practica_0.egg-info/requires.txt
+../build/nodes_topics_py/practica_0.egg-info/top_level.txt
+../build/nodes_topics_py/practica_0.egg-info/zip-safe
+practica_0/__init__.py
+practica_0/publish_node.py
+practica_0/sub_node.py
+resource/practica_0
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

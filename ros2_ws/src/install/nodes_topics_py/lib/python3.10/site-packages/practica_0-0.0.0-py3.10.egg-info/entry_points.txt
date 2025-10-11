@@ -1,0 +1,4 @@
+[console_scripts]
+publish_node = practica_0.publish_node:main
+sub_node = practica_0.sub_node:main
+

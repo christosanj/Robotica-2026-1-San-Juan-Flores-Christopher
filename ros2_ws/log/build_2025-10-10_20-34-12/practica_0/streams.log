@@ -1,0 +1,41 @@
+[3.518s] Invoking command in '/home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/src/practica_0': PYTHONPATH=/home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/build/practica_0/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/install/practica_0/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/practica_0 build --build-base /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/build/practica_0/build install --record /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/build/practica_0/install.log --single-version-externally-managed install_data
+[5.005s] running egg_info
+[5.006s] creating ../../build/practica_0/practica_0.egg-info
+[5.006s] writing ../../build/practica_0/practica_0.egg-info/PKG-INFO
+[5.006s] writing dependency_links to ../../build/practica_0/practica_0.egg-info/dependency_links.txt
+[5.007s] writing entry points to ../../build/practica_0/practica_0.egg-info/entry_points.txt
+[5.007s] writing requirements to ../../build/practica_0/practica_0.egg-info/requires.txt
+[5.007s] writing top-level names to ../../build/practica_0/practica_0.egg-info/top_level.txt
+[5.008s] writing manifest file '../../build/practica_0/practica_0.egg-info/SOURCES.txt'
+[5.011s] reading manifest file '../../build/practica_0/practica_0.egg-info/SOURCES.txt'
+[5.013s] writing manifest file '../../build/practica_0/practica_0.egg-info/SOURCES.txt'
+[5.014s] running build
+[5.014s] running build_py
+[5.014s] creating /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/build/practica_0/build
+[5.014s] creating /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/build/practica_0/build/lib
+[5.014s] creating /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/build/practica_0/build/lib/practica_0
+[5.014s] copying practica_0/publish_node.py -> /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/build/practica_0/build/lib/practica_0
+[5.014s] copying practica_0/sub_node.py -> /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/build/practica_0/build/lib/practica_0
+[5.015s] copying practica_0/__init__.py -> /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/build/practica_0/build/lib/practica_0
+[5.016s] running install
+[5.016s] running install_lib
+[5.017s] creating /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/install/practica_0/lib/python3.10/site-packages/practica_0
+[5.018s] copying /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/build/practica_0/build/lib/practica_0/publish_node.py -> /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/install/practica_0/lib/python3.10/site-packages/practica_0
+[5.018s] copying /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/build/practica_0/build/lib/practica_0/sub_node.py -> /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/install/practica_0/lib/python3.10/site-packages/practica_0
+[5.018s] copying /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/build/practica_0/build/lib/practica_0/__init__.py -> /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/install/practica_0/lib/python3.10/site-packages/practica_0
+[5.024s] byte-compiling /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/install/practica_0/lib/python3.10/site-packages/practica_0/publish_node.py to publish_node.cpython-310.pyc
+[5.025s] byte-compiling /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/install/practica_0/lib/python3.10/site-packages/practica_0/sub_node.py to sub_node.cpython-310.pyc
+[5.026s] byte-compiling /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/install/practica_0/lib/python3.10/site-packages/practica_0/__init__.py to __init__.cpython-310.pyc
+[5.026s] running install_data
+[5.027s] creating /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/install/practica_0/share/ament_index
+[5.027s] creating /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/install/practica_0/share/ament_index/resource_index
+[5.028s] creating /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/install/practica_0/share/ament_index/resource_index/packages
+[5.028s] copying resource/practica_0 -> /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/install/practica_0/share/ament_index/resource_index/packages
+[5.028s] copying package.xml -> /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/install/practica_0/share/practica_0
+[5.029s] running install_egg_info
+[5.034s] Copying ../../build/practica_0/practica_0.egg-info to /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/install/practica_0/lib/python3.10/site-packages/practica_0-0.0.0-py3.10.egg-info
+[5.035s] running install_scripts
+[5.087s] Installing publish_node script to /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/install/practica_0/lib/practica_0
+[5.089s] Installing sub_node script to /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/install/practica_0/lib/practica_0
+[5.089s] writing list of installed files to '/home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/build/practica_0/install.log'
+[5.130s] Invoked command in '/home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/src/practica_0' returned '0': PYTHONPATH=/home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/build/practica_0/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/install/practica_0/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/practica_0 build --build-base /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/build/practica_0/build install --record /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/build/practica_0/install.log --single-version-externally-managed install_data

@@ -1,0 +1,39 @@
+[1.127s] Invoking command in '/home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/src/practica_0': PYTHONPATH=/home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/src/build/nodes_topics_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/src/install/nodes_topics_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/nodes_topics_py build --build-base /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/src/build/nodes_topics_py/build install --record /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/src/build/nodes_topics_py/install.log --single-version-externally-managed install_data
+[1.426s] running egg_info
+[1.427s] creating ../build/nodes_topics_py/practica_0.egg-info
+[1.427s] writing ../build/nodes_topics_py/practica_0.egg-info/PKG-INFO
+[1.428s] writing dependency_links to ../build/nodes_topics_py/practica_0.egg-info/dependency_links.txt
+[1.428s] writing entry points to ../build/nodes_topics_py/practica_0.egg-info/entry_points.txt
+[1.428s] writing requirements to ../build/nodes_topics_py/practica_0.egg-info/requires.txt
+[1.428s] writing top-level names to ../build/nodes_topics_py/practica_0.egg-info/top_level.txt
+[1.429s] writing manifest file '../build/nodes_topics_py/practica_0.egg-info/SOURCES.txt'
+[1.432s] reading manifest file '../build/nodes_topics_py/practica_0.egg-info/SOURCES.txt'
+[1.433s] writing manifest file '../build/nodes_topics_py/practica_0.egg-info/SOURCES.txt'
+[1.434s] running build
+[1.434s] running build_py
+[1.436s] creating /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/src/build/nodes_topics_py/build
+[1.436s] creating /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/src/build/nodes_topics_py/build/lib
+[1.436s] creating /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/src/build/nodes_topics_py/build/lib/practica_0
+[1.436s] copying practica_0/publish_node.py -> /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/src/build/nodes_topics_py/build/lib/practica_0
+[1.443s] copying practica_0/sub_node.py -> /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/src/build/nodes_topics_py/build/lib/practica_0
+[1.444s] copying practica_0/__init__.py -> /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/src/build/nodes_topics_py/build/lib/practica_0
+[1.444s] running install
+[1.445s] running install_lib
+[1.446s] creating /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/src/install/nodes_topics_py/lib/python3.10/site-packages/practica_0
+[1.446s] copying /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/src/build/nodes_topics_py/build/lib/practica_0/publish_node.py -> /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/src/install/nodes_topics_py/lib/python3.10/site-packages/practica_0
+[1.447s] copying /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/src/build/nodes_topics_py/build/lib/practica_0/sub_node.py -> /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/src/install/nodes_topics_py/lib/python3.10/site-packages/practica_0
+[1.447s] copying /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/src/build/nodes_topics_py/build/lib/practica_0/__init__.py -> /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/src/install/nodes_topics_py/lib/python3.10/site-packages/practica_0
+[1.447s] byte-compiling /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/src/install/nodes_topics_py/lib/python3.10/site-packages/practica_0/publish_node.py to publish_node.cpython-310.pyc
+[1.447s] byte-compiling /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/src/install/nodes_topics_py/lib/python3.10/site-packages/practica_0/sub_node.py to sub_node.cpython-310.pyc
+[1.448s] byte-compiling /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/src/install/nodes_topics_py/lib/python3.10/site-packages/practica_0/__init__.py to __init__.cpython-310.pyc
+[1.448s] running install_data
+[1.449s] copying resource/practica_0 -> /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/src/install/nodes_topics_py/share/ament_index/resource_index/packages
+[1.449s] creating /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/src/install/nodes_topics_py/share/practica_0
+[1.449s] copying package.xml -> /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/src/install/nodes_topics_py/share/practica_0
+[1.449s] running install_egg_info
+[1.452s] Copying ../build/nodes_topics_py/practica_0.egg-info to /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/src/install/nodes_topics_py/lib/python3.10/site-packages/practica_0-0.0.0-py3.10.egg-info
+[1.453s] running install_scripts
+[1.475s] Installing publish_node script to /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/src/install/nodes_topics_py/lib/practica_0
+[1.475s] Installing sub_node script to /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/src/install/nodes_topics_py/lib/practica_0
+[1.476s] writing list of installed files to '/home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/src/build/nodes_topics_py/install.log'
+[1.514s] Invoked command in '/home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/src/practica_0' returned '0': PYTHONPATH=/home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/src/build/nodes_topics_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/src/install/nodes_topics_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/nodes_topics_py build --build-base /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/src/build/nodes_topics_py/build install --record /home/robousr/Robotica-2026-1-San-Juan-Flores-Christopher/ros2_ws/src/build/nodes_topics_py/install.log --single-version-externally-managed install_data
